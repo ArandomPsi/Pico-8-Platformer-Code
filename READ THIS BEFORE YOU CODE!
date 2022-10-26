@@ -1,0 +1,4 @@
+--DON'T COPY ANYTHING HERE
+--For every tile you want to be a wall, flag 1 + 2
+--The player uses 7 frames, but you can customize them whenever to fit your game
+--There is a double jump which can be activated while mid-air, by pressing the "non-jump" key
